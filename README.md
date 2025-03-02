@@ -89,7 +89,7 @@ Financial institutions need **real-time insights** to evaluate loan applications
 ## **📂 Repository Contents**  
 
 📁 `financial_loan.csv` – Raw dataset used for analysis  
-📁 `Bank_Loan_Analysis.pbix` – Power BI dashboard file  
+📁 `Bank Loan Report.pbix` – Power BI dashboard file  
 📁 `Query_Doc.docx` – SQL queries used for data processing  
 📁 `README.md` – Project documentation  
 
@@ -116,4 +116,6 @@ This dashboard helps **banks & financial institutions**:
 🔹 **Contributions are welcome!** If you have suggestions, feel free to **fork this repo** and submit a pull request.  
 🔹 **Questions?** Contact me or raise an issue in the repository.  
 🔹 If you found this useful, don’t forget to **⭐ star this repository!**  
+
+
 
