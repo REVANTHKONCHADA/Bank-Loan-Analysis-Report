@@ -118,4 +118,7 @@ This dashboard helps **banks & financial institutions**:
 🔹 If you found this useful, don’t forget to **⭐ star this repository!**  
 
 
+![Screenshot 2025-02-24 111943](https://github.com/user-attachments/assets/6513879a-56c2-4377-83b1-763c6136f8ae)
+![Screenshot 2025-02-24 215231](https://github.com/user-attachments/assets/b8de0677-f384-4957-9c56-f511ba2791de)
+![Screenshot 2025-02-24 112033](https://github.com/user-attachments/assets/da70f557-8650-411d-9cad-fe748ccb9633)
 
